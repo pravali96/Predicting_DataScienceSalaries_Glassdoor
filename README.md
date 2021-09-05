@@ -43,7 +43,8 @@ After scraping the data, I needed to clean it up so that it was usable for our m
 *	Made columns for if different skills were listed in the job description:
     * Python  
     * R  
-    * Excel  
+    * Tableau
+    * SQL  
     * AWS  
     * Spark 
 *	Column for simplified job title and Seniority 
